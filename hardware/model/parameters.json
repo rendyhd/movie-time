@@ -1,0 +1,84 @@
+{
+  "case_spine": 190.0,
+  "case_depth": 135.0,
+  "case_thickness": 14.0,
+  "insertion_fraction": 0.8,
+  "case_side_clearance": 1.0,
+  "body_width": 250.0,
+  "body_depth": 144.0,
+  "body_height": 38.0,
+  "wall": 2.4,
+  "corner_radius": 10.0,
+  "top_decoration": true,
+  "top_engraving_depth": 0.6,
+  "deck_height": 18.0,
+  "deck_thickness": 2.4,
+  "slot_left": 8.0,
+  "slot_top": 34.8,
+  "button_centres": [
+    208.5,
+    222.0,
+    235.5
+  ],
+  "button_z": 26.0,
+  "button_diameter": 11.4,
+  "button_hole_diameter": 12.0,
+  "button_stem_tip_y": 6.2,
+  "button_pin_diameter": 3.0,
+  "button_guide_front_y": 4.1,
+  "switch_body_width": 6.2,
+  "switch_body_depth": 4.0,
+  "switch_body_front_y": 6.6,
+  "switch_actuator_diameter": 3.5,
+  "switch_actuator_height": 1.0,
+  "pn532_centre": [
+    34.0,
+    77.0
+  ],
+  "pn532_board": [
+    43.0,
+    41.0
+  ],
+  "pn532_pcb_bottom": 12.6,
+  "nfc_membrane": 1.2,
+  "lid_screws": [
+    [
+      4.2,
+      25.0
+    ],
+    [
+      4.2,
+      122.0
+    ],
+    [
+      241.0,
+      65.0
+    ],
+    [
+      241.0,
+      128.0
+    ]
+  ],
+  "deck_screws": [
+    [
+      15.0,
+      12.0
+    ],
+    [
+      190.0,
+      12.0
+    ],
+    [
+      84.0,
+      101.0
+    ],
+    [
+      190.0,
+      101.0
+    ]
+  ],
+  "switch_carrier_front_y": 6.0,
+  "switch_retainer_thickness": 1.8,
+  "switch_installed_actuator_recess": 2.2,
+  "switch_measured_travel": 0.5
+}

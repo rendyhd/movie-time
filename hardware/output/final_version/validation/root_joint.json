@@ -1,0 +1,16 @@
+{
+  "valid_single_solid": true,
+  "original_contact_span_preserved_after_y_mm": 27.5,
+  "contact_span_symmetric_difference_mm3": 0.0,
+  "removed_material_from_previous_spring_mm3": 0.0,
+  "added_material_mm3": 17.631842091426734,
+  "shoulder_fillet_radii_mm": [
+    1.2,
+    0.4
+  ],
+  "underside_ramp_slope_degrees": 45,
+  "attachment_embedded_into_block_mm": 2.5,
+  "root_thickness_mm": 2.4,
+  "root_taper_length_mm": 1.5,
+  "physically_tested": false
+}

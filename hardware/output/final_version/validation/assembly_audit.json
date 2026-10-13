@@ -1,0 +1,373 @@
+{
+  "all_nominal_screw_checks_passed": true,
+  "screw_count_in_player": 14,
+  "screws": [
+    {
+      "code": "A",
+      "size": "M3 x 25 pan head",
+      "seat": [
+        4.2,
+        25.0,
+        1.4
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 25,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 2.4,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 18.0,
+      "pilot_end": 29.5,
+      "tip": 26.4,
+      "engagement": 8.4,
+      "blind_end_clearance_mm": 3.1000000000000014,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "A",
+      "size": "M3 x 25 pan head",
+      "seat": [
+        4.2,
+        122.0,
+        1.4
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 25,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 2.4,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 18.0,
+      "pilot_end": 29.5,
+      "tip": 26.4,
+      "engagement": 8.4,
+      "blind_end_clearance_mm": 3.1000000000000014,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "A",
+      "size": "M3 x 25 pan head",
+      "seat": [
+        241.0,
+        65.0,
+        1.4
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 25,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 2.4,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 18.0,
+      "pilot_end": 29.5,
+      "tip": 26.4,
+      "engagement": 8.4,
+      "blind_end_clearance_mm": 3.1000000000000014,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "A",
+      "size": "M3 x 25 pan head",
+      "seat": [
+        241.0,
+        128.0,
+        1.4
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 25,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 2.4,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 18.0,
+      "pilot_end": 29.5,
+      "tip": 26.4,
+      "engagement": 8.4,
+      "blind_end_clearance_mm": 3.1000000000000014,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "B",
+      "size": "M3 x 8 90-degree countersunk",
+      "seat": [
+        15.0,
+        12.0,
+        17.6
+      ],
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "length": 8,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 1.3,
+      "host": "01_base",
+      "receiver_entry": 15.6,
+      "pilot_end": 8.0,
+      "tip": 9.6,
+      "engagement": 6.0,
+      "blind_end_clearance_mm": 1.5999999999999996,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "B",
+      "size": "M3 x 8 90-degree countersunk",
+      "seat": [
+        190.0,
+        12.0,
+        17.6
+      ],
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "length": 8,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 1.3,
+      "host": "01_base",
+      "receiver_entry": 15.6,
+      "pilot_end": 8.0,
+      "tip": 9.6,
+      "engagement": 6.0,
+      "blind_end_clearance_mm": 1.5999999999999996,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "B",
+      "size": "M3 x 8 90-degree countersunk",
+      "seat": [
+        84.0,
+        101.0,
+        17.6
+      ],
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "length": 8,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 1.3,
+      "host": "01_base",
+      "receiver_entry": 15.6,
+      "pilot_end": 8.0,
+      "tip": 9.6,
+      "engagement": 6.0,
+      "blind_end_clearance_mm": 1.5999999999999996,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "B",
+      "size": "M3 x 8 90-degree countersunk",
+      "seat": [
+        190.0,
+        101.0,
+        17.6
+      ],
+      "axis": [
+        0,
+        0,
+        -1
+      ],
+      "length": 8,
+      "radius": 1.5,
+      "head_radius": 2.8,
+      "head_height": 1.3,
+      "host": "01_base",
+      "receiver_entry": 15.6,
+      "pilot_end": 8.0,
+      "tip": 9.6,
+      "engagement": 6.0,
+      "blind_end_clearance_mm": 1.5999999999999996,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "C",
+      "size": "M2 x 14 pan head",
+      "seat": [
+        215.25,
+        8.8,
+        20.0
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 14,
+      "radius": 1.0,
+      "head_radius": 2.0,
+      "head_height": 1.6,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 30.0,
+      "pilot_end": 36.0,
+      "tip": 34.0,
+      "engagement": 4.0,
+      "blind_end_clearance_mm": 2.0,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "C",
+      "size": "M2 x 14 pan head",
+      "seat": [
+        228.75,
+        8.8,
+        20.0
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 14,
+      "radius": 1.0,
+      "head_radius": 2.0,
+      "head_height": 1.6,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 30.0,
+      "pilot_end": 36.0,
+      "tip": 34.0,
+      "engagement": 4.0,
+      "blind_end_clearance_mm": 2.0,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "D",
+      "size": "M2 x 6 pan head",
+      "seat": [
+        204.8,
+        12.4,
+        32.1
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "length": 6,
+      "radius": 1.0,
+      "head_radius": 2.0,
+      "head_height": 1.6,
+      "host": "07_switch_carrier",
+      "receiver_entry": 10.6,
+      "pilot_end": null,
+      "tip": 6.4,
+      "engagement": 4.2,
+      "blind_end_clearance_mm": null,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "D",
+      "size": "M2 x 6 pan head",
+      "seat": [
+        244.0,
+        12.4,
+        32.1
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "length": 6,
+      "radius": 1.0,
+      "head_radius": 2.0,
+      "head_height": 1.6,
+      "host": "07_switch_carrier",
+      "receiver_entry": 10.6,
+      "pilot_end": null,
+      "tip": 6.4,
+      "engagement": 4.2,
+      "blind_end_clearance_mm": null,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "E",
+      "size": "M2 x 12 pan head",
+      "seat": [
+        205.0,
+        19.5,
+        21.0
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 12,
+      "radius": 1.0,
+      "head_radius": 2.0,
+      "head_height": 1.6,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 29.0,
+      "pilot_end": 33.7,
+      "tip": 33.0,
+      "engagement": 4.0,
+      "blind_end_clearance_mm": 0.7000000000000028,
+      "unrelated_part_collisions": []
+    },
+    {
+      "code": "E",
+      "size": "M2 x 12 pan head",
+      "seat": [
+        214.0,
+        19.5,
+        21.0
+      ],
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "length": 12,
+      "radius": 1.0,
+      "head_radius": 2.0,
+      "head_height": 1.6,
+      "host": "02_cute_lid_single_leaf",
+      "receiver_entry": 29.0,
+      "pilot_end": 33.7,
+      "tip": 33.0,
+      "engagement": 4.0,
+      "blind_end_clearance_mm": 0.7000000000000028,
+      "unrelated_part_collisions": []
+    }
+  ],
+  "correction": {
+    "location": "C - switch carrier to lid",
+    "old_screw": "M2 x 16 without spacer",
+    "old_tip_z_mm": 36.0,
+    "blind_pilot_end_z_mm": 36.0,
+    "old_blind_end_margin_mm": 0.0,
+    "recommended": "M2 x 14",
+    "alternative": "M2 x 16 with a 2 mm spacer under each head, OD <= 4 mm",
+    "alternative_clearance_checked": true
+  },
+  "nfc_tag_center_from_case_left_mm": 26.0,
+  "nfc_tag_center_from_spine_mm": 104.0,
+  "limitations": [
+    "Nominal screw envelopes, not a thread-strength test.",
+    "Confirm actual head dimensions and seat deck heads flush or recessed.",
+    "Printed tolerances, tightening torque and switch operation require physical checks."
+  ]
+}

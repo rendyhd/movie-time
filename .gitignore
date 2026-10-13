@@ -12,3 +12,9 @@
 /.pytest_cache/
 **/__pycache__/
 /.venv*/
+# Hardware scratch output and intermediate CAD stages (see hardware/README.md)
+/hardware/build/
+/hardware/output/step/
+/hardware/output/stl/
+/hardware/output/plates/
+/hardware/output/spring_guide/

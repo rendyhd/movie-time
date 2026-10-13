@@ -1,0 +1,3396 @@
+{
+  "revision": "single leaf reinforced root",
+  "status": "digital_design_complete_physical_validation_pending",
+  "mechanism": "one fixed mounting block and one free-ended PETG leaf",
+  "sliding_joints": 0,
+  "contact_motion_checks": [
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 22.26414143172844,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 18.7295643047834,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 15.210424561265286,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 11.783136776611716,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 8.477059686396194,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 5.338144096165549,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 2.4072474652188744,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        173.3218458207293,
+        69.87877490973963
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.47877490973963,
+      "min_contact_constraint_mm": 5.587474927182257e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.026625832566403475,
+      "normalized_bending_energy": 0.001342759286442815
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        176.00430610357057,
+        71.68022162335126
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 72.28022162335125,
+      "min_contact_constraint_mm": -8.007483565108942e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.24901288436618685,
+      "normalized_bending_energy": 0.13183946967104895
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        177.8437153341906,
+        72.73557300399213
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.33557300399212,
+      "min_contact_constraint_mm": 4.646005802300124e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.3878010960569416,
+      "normalized_bending_energy": 0.32768094623567917
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        178.81779763572584,
+        73.21376502315013
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.81376502315013,
+      "min_contact_constraint_mm": 9.068024109382122e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44724002432341453,
+      "normalized_bending_energy": 0.4574065319069318
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        179.01150123764305,
+        73.27670257940144
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.87670257940144,
+      "min_contact_constraint_mm": 6.99190705333308e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.44630207368312635,
+      "normalized_bending_energy": 0.4823877895589941,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        178.918554154783,
+        73.25840361585878
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.85840361585878,
+      "min_contact_constraint_mm": 5.762473831438797e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.4463773349171544,
+      "normalized_bending_energy": 0.47131775654880825,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        178.1628783306437,
+        72.89725893430762
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.49725893430761,
+      "min_contact_constraint_mm": 7.159550730051478e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.4163348859359629,
+      "normalized_bending_energy": 0.3685624088099768,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        176.55531185194957,
+        72.01195770320811
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 72.6119577032081,
+      "min_contact_constraint_mm": 3.4935943027392113e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.2946984404742762,
+      "normalized_bending_energy": 0.18255247113979417,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        174.0751376359756,
+        70.41515558968825
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 71.01515558968825,
+      "min_contact_constraint_mm": 6.67327304526566e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.09474131630905291,
+      "normalized_bending_energy": 0.017186644325857578,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 1.7166832205173899,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 4.582111693268889,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 7.676446517432577,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 10.942231767784715,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 14.341304963632867,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 17.84405984711521,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 178.05,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.0340232399123,
+        69.66729236281645
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729236281645,
+      "min_contact_constraint_mm": 21.41684105573024,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2246448983771997e-05,
+      "normalized_bending_energy": 2.6209131247525787e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 20.649999999999988,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 17.822680996382346,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 14.257638772605377,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 10.743044955553202,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 7.336686262952112,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 4.0779792581945395,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 1.016645883856436,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        175.42488095722027,
+        71.3287917485766
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 71.9287917485766,
+      "min_contact_constraint_mm": 4.093947403305265e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.21974204020258795,
+      "normalized_bending_energy": 0.09034232205715281
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        178.30220470925002,
+        73.02806836651229
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.62806836651228,
+      "min_contact_constraint_mm": -2.018663014524691e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.4455500163776709,
+      "normalized_bending_energy": 0.4045482620707696
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        180.2015415576116,
+        73.96226531868618
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.56226531868617,
+      "min_contact_constraint_mm": 3.16385806442554e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.5871172894879296,
+      "normalized_bending_energy": 0.7096329367161139
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        181.14211783576155,
+        74.33995460971374
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.93995460971374,
+      "min_contact_constraint_mm": 3.0128677330765186e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.630537951670594,
+      "normalized_bending_energy": 0.8760350624650846
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        181.30774777062464,
+        74.37985839037916
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97985839037915,
+      "min_contact_constraint_mm": 4.820338572741889e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6231342453060674,
+      "normalized_bending_energy": 0.9021309569640327,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        181.25359403332268,
+        74.37260973666073
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.97260973666073,
+      "min_contact_constraint_mm": 1.2960466033717921e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.6285922724107311,
+      "normalized_bending_energy": 0.8945942657357849,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        180.51615547048243,
+        74.10323268534557
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.70323268534557,
+      "min_contact_constraint_mm": 7.435718707426986e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.5931747384353631,
+      "normalized_bending_energy": 0.7650316454225295,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        178.8722250487621,
+        73.3251744341386
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.9251744341386,
+      "min_contact_constraint_mm": 8.832656828161589e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.4942297919121271,
+      "normalized_bending_energy": 0.4897781911982502,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        176.23393636735204,
+        71.83875680438844
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 72.43875680438843,
+      "min_contact_constraint_mm": 2.3178681196611706e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.2908444776264407,
+      "normalized_bending_energy": 0.15844500424536537,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 0.2895637381716203,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 3.2918313430668764,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 6.5090750930904,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 9.882269067825186,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 13.372556808119285,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 16.944912307834926,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 180.05,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.03403287050577,
+        69.66729654332977
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729654332976,
+      "min_contact_constraint_mm": 20.14832169567548,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.671260056755053e-05,
+      "normalized_bending_energy": 4.014206541433081e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 11.700000000000001,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 10.933412097840282,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 8.790483764419765,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 6.029155695023166,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 2.882534775741686,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        174.1570860501185,
+        70.47954082629802
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 71.07954082629801,
+      "min_contact_constraint_mm": -2.7006175074006933e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.1344868356487919,
+      "normalized_bending_energy": 0.024757230949747702
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        181.74452929034743,
+        74.83293148738102
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 75.43293148738101,
+      "min_contact_constraint_mm": 5.897143884325828e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.8812293546797862,
+      "normalized_bending_energy": 1.2232973658420023
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        187.15115544427118,
+        76.87571645175932
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 77.47571645175931,
+      "min_contact_constraint_mm": -2.176314684021463e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.2829352101023326,
+      "normalized_bending_energy": 2.852100014930761
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        190.5423259290003,
+        77.7201388761864
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.32013887618639,
+      "min_contact_constraint_mm": -8.507083926190262e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.4908078403999578,
+      "normalized_bending_energy": 4.0768383669951005
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        192.35661047824382,
+        77.97962887323285
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.57962887323285,
+      "min_contact_constraint_mm": 4.1253112037509254e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5802566302708727,
+      "normalized_bending_energy": 4.727170688655787
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        192.8427456626812,
+        77.96677115612079
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.56677115612078,
+      "min_contact_constraint_mm": 5.286604487508839e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5569756920922335,
+      "normalized_bending_energy": 4.841958312286137,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        192.610421988406,
+        77.98815043048408
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.58815043048408,
+      "min_contact_constraint_mm": 3.5313418855764667e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.563673961096601,
+      "normalized_bending_energy": 4.796131057490588,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        191.1063380675787,
+        77.8261197817566
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.4261197817566,
+      "min_contact_constraint_mm": 2.4599766668131906e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.554873109993705,
+      "normalized_bending_energy": 4.304291537833953,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        188.1338345835541,
+        77.16030605866315
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 77.76030605866315,
+      "min_contact_constraint_mm": 1.0782208459403364e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.3869703992274804,
+      "normalized_bending_energy": 3.2214000547393806,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        183.21844980844253,
+        75.47028095328812
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 76.07028095328812,
+      "min_contact_constraint_mm": 4.9155124415278806e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.0369365551384664,
+      "normalized_bending_energy": 1.636459800646333,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        176.20973491059925,
+        71.84844918106819
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 72.44844918106818,
+      "min_contact_constraint_mm": -1.33809630042947e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.34442207735289493,
+      "normalized_bending_energy": 0.18375021809543213,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        173.03401688809151,
+        69.66728701281873
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26728701281873,
+      "min_contact_constraint_mm": 2.0557928135027015,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6412981184530127e-05,
+      "normalized_bending_energy": 4.088915233352905e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        173.03401688809151,
+        69.66728701281873
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26728701281873,
+      "min_contact_constraint_mm": 5.272415585329486,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6412981184530127e-05,
+      "normalized_bending_energy": 4.088915233352905e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        173.03401688809151,
+        69.66728701281873
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26728701281873,
+      "min_contact_constraint_mm": 8.145260775133274,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6412981184530127e-05,
+      "normalized_bending_energy": 4.088915233352905e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.03401688809151,
+        69.66728701281873
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26728701281873,
+      "min_contact_constraint_mm": 10.471430050376505,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6412981184530127e-05,
+      "normalized_bending_energy": 4.088915233352905e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 189.0,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.03401688809151,
+        69.66728701281873
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26728701281873,
+      "min_contact_constraint_mm": 11.700000000000001,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6412981184530127e-05,
+      "normalized_bending_energy": 4.088915233352905e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 10.700000000000001,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 10.025503680303894,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 7.996271669007648,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 5.3466665611805695,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 2.2969158432458463,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        175.4638960040395,
+        71.3682485777459
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 71.9682485777459,
+      "min_contact_constraint_mm": -9.70473701400465e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.272344646710637,
+      "normalized_bending_energy": 0.11198910895374685
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        183.10353648859473,
+        75.4268115116798
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 76.0268115116798,
+      "min_contact_constraint_mm": -2.2787327580431338e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.0555139542499326,
+      "normalized_bending_energy": 1.6402871681838707
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        188.65386451547872,
+        77.32863601628932
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 77.92863601628932,
+      "min_contact_constraint_mm": 1.177807851249213e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.482689395696892,
+      "normalized_bending_energy": 3.507998263336478
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        192.0418266061858,
+        78.05516201005372
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.65516201005371,
+      "min_contact_constraint_mm": 4.043737567016592e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.683412166413298,
+      "normalized_bending_energy": 4.814498167785989
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        193.87351257064012,
+        78.23679860689124
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.83679860689124,
+      "min_contact_constraint_mm": 3.180511409794917e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6988319688306486,
+      "normalized_bending_energy": 5.456330842195469
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        194.26643136582229,
+        78.20231716385001
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.80231716385,
+      "min_contact_constraint_mm": 2.1602164501643983e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6769570512495588,
+      "normalized_bending_energy": 5.540301363406933,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        194.09206219089327,
+        78.22836347199942
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.82836347199941,
+      "min_contact_constraint_mm": 9.069134332406747e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.6792144205330701,
+      "normalized_bending_energy": 5.508675146233583,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        192.69209937225585,
+        78.14395934855783
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.74395934855782,
+      "min_contact_constraint_mm": 7.013833958069426e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.679135145224641,
+      "normalized_bending_energy": 5.044376277402265,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        189.76340159585914,
+        77.60291523835629
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.20291523835628,
+      "min_contact_constraint_mm": 1.8438028881462287e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.51145863068809,
+      "normalized_bending_energy": 3.8981987031311345,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        184.82360070596863,
+        76.10838844261157
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 76.70838844261156,
+      "min_contact_constraint_mm": 2.075423166658652e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1598202362861973,
+      "normalized_bending_energy": 2.1426635616611205,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        177.49563281454454,
+        72.62505149149658
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.22505149149657,
+      "min_contact_constraint_mm": 2.002564780667626e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.5008310388829003,
+      "normalized_bending_energy": 0.3627540567106258,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        173.03402629474564,
+        69.66729331227543
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729331227543,
+      "min_contact_constraint_mm": 1.4901691640123471,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1238390555785339e-05,
+      "normalized_bending_energy": 1.818979949910457e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        173.03402629474564,
+        69.66729331227543
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729331227543,
+      "min_contact_constraint_mm": 4.618030673495534,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1238390555785339e-05,
+      "normalized_bending_energy": 1.818979949910457e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        173.03402629474564,
+        69.66729331227543
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729331227543,
+      "min_contact_constraint_mm": 7.382360922342345,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1238390555785339e-05,
+      "normalized_bending_energy": 1.818979949910457e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.03402629474564,
+        69.66729331227543
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729331227543,
+      "min_contact_constraint_mm": 9.592224425098578,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1238390555785339e-05,
+      "normalized_bending_energy": 1.818979949910457e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 190.0,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.03402629474564,
+        69.66729331227543
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729331227543,
+      "min_contact_constraint_mm": 10.700000000000001,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1238390555785339e-05,
+      "normalized_bending_energy": 1.818979949910457e-10,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 2.6499999999999884,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 2.4293216918304723,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 1.039908411481906,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        177.0130890228123,
+        72.24593169151919
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 72.84593169151918,
+      "min_contact_constraint_mm": 6.158962229108056e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.8078398731093983,
+      "normalized_bending_energy": 0.46452844632505463
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        185.27252240236032,
+        76.1873632814307
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 76.7873632814307,
+      "min_contact_constraint_mm": -1.4890866317784912e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.8990554921947562,
+      "normalized_bending_energy": 3.2603224239177413
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        192.32575698584134,
+        78.24169120829873
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.84169120829873,
+      "min_contact_constraint_mm": -9.250933352689117e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.4553792834709616,
+      "normalized_bending_energy": 6.574165712947837
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        198.42626749529288,
+        79.0906380136231
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.6906380136231,
+      "min_contact_constraint_mm": 6.7452432528369854e-12,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.7783795206436337,
+      "normalized_bending_energy": 9.809766698830414
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        203.72294321834275,
+        79.06761124028827
+      ],
+      "max_x_including_edge_mm": 204.32294321834274,
+      "max_y_including_edge_mm": 79.66761124028827,
+      "min_contact_constraint_mm": -8.396061623727746e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.8957408879139948,
+      "normalized_bending_energy": 12.676244676033136
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        206.08141381929403,
+        78.73337440517327
+      ],
+      "max_x_including_edge_mm": 206.68141381929402,
+      "max_y_including_edge_mm": 79.33337440517326,
+      "min_contact_constraint_mm": -2.1566082253343666e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.8992097887703245,
+      "normalized_bending_energy": 13.837398523007346
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        206.4282537967598,
+        78.63392641768127
+      ],
+      "max_x_including_edge_mm": 207.0282537967598,
+      "max_y_including_edge_mm": 79.23392641768126,
+      "min_contact_constraint_mm": 3.5813019216845987e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.877606244580453,
+      "normalized_bending_energy": 13.924879918954243,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        206.3352455493931,
+        78.6651503212897
+      ],
+      "max_x_including_edge_mm": 206.9352455493931,
+      "max_y_including_edge_mm": 79.2651503212897,
+      "min_contact_constraint_mm": 4.549138843401579e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.8906302285613314,
+      "normalized_bending_energy": 13.913489440627727,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        204.33298015098737,
+        79.02520531470266
+      ],
+      "max_x_including_edge_mm": 204.93298015098736,
+      "max_y_including_edge_mm": 79.62520531470265,
+      "min_contact_constraint_mm": 1.6373014055659496e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.9702493126384564,
+      "normalized_bending_energy": 13.123297301320376,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        199.96051577431803,
+        79.1632578008298
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.76325780082979,
+      "min_contact_constraint_mm": -4.8433479449272454e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.823970780462093,
+      "normalized_bending_energy": 10.633583814793855,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        194.02004764271314,
+        78.56617315605646
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.16617315605646,
+      "min_contact_constraint_mm": -9.006684287271582e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.5350764093834517,
+      "normalized_bending_energy": 7.411076570373315,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        187.2194840058955,
+        76.87270801678505
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 77.47270801678505,
+      "min_contact_constraint_mm": -1.757760603737779e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.0585612183463518,
+      "normalized_bending_energy": 4.09477495033146,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        179.28143682451744,
+        73.50841842708952
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.10841842708952,
+      "min_contact_constraint_mm": 3.915479052096771e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.1603163690179439,
+      "normalized_bending_energy": 1.041676500511491,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        173.03402273653904,
+        69.66729100046413
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729100046413,
+      "min_contact_constraint_mm": 0.6125725166421594,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.468510205561816e-06,
+      "normalized_bending_energy": 9.511689742834302e-12,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.03402273653904,
+        69.66729100046413
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729100046413,
+      "min_contact_constraint_mm": 2.143578796906852,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.468510205561816e-06,
+      "normalized_bending_energy": 9.511689742834302e-12,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 198.05,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.03402273653904,
+        69.66729100046413
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729100046413,
+      "min_contact_constraint_mm": 2.6499999999999884,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.468510205561816e-06,
+      "normalized_bending_energy": 9.511689742834302e-12,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 1.7,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 1.516613341234831,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 0.18160714297444222,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        181.13970286712072,
+        74.40556598506906
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 75.00556598506905,
+      "min_contact_constraint_mm": -1.2137513216714524e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.5662971296542847,
+      "normalized_bending_energy": 1.801801225541037
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        188.71350556161207,
+        77.30524168430694
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 77.90524168430693,
+      "min_contact_constraint_mm": -3.134437154272973e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.354396698649799,
+      "normalized_bending_energy": 5.127631990031159
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        195.25370606299916,
+        78.7501074583779
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.35010745837789,
+      "min_contact_constraint_mm": -5.6094018319186034e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.761308759705986,
+      "normalized_bending_energy": 8.473256343779862
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        200.93986075925974,
+        79.20457480660272
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.80457480660272,
+      "min_contact_constraint_mm": -2.2629120799422253e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.9973554005044085,
+      "normalized_bending_energy": 11.615635117034207
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        205.5675172661155,
+        78.96907906438202
+      ],
+      "max_x_including_edge_mm": 206.16751726611548,
+      "max_y_including_edge_mm": 79.56907906438201,
+      "min_contact_constraint_mm": 7.217282327331986e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.137769690223323,
+      "normalized_bending_energy": 14.331042187700493
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        207.79682709138007,
+        78.53946693958136
+      ],
+      "max_x_including_edge_mm": 208.39682709138006,
+      "max_y_including_edge_mm": 79.13946693958135,
+      "min_contact_constraint_mm": 1.023348072948238e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.075025027617848,
+      "normalized_bending_energy": 15.316504238812644
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        207.99648332650662,
+        78.46748299604724
+      ],
+      "max_x_including_edge_mm": 208.59648332650661,
+      "max_y_including_edge_mm": 79.06748299604723,
+      "min_contact_constraint_mm": 1.307565167252278e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.046359917819526,
+      "normalized_bending_energy": 15.336942238022328,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        206.40685068697286,
+        78.8460424857838
+      ],
+      "max_x_including_edge_mm": 207.00685068697285,
+      "max_y_including_edge_mm": 79.44604248578379,
+      "min_contact_constraint_mm": -1.8235413179468196e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.1238950003119386,
+      "normalized_bending_energy": 14.74768929393322,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        202.32940541657544,
+        79.19254098913832
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.79254098913832,
+      "min_contact_constraint_mm": -1.8265944312645388e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.019681159259677,
+      "normalized_bending_energy": 12.366393499166199,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        196.5221251690311,
+        78.91487481479875
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.51487481479874,
+      "min_contact_constraint_mm": -2.7958191317623005e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.868540342989597,
+      "normalized_bending_energy": 9.238597880264892,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        190.2684712290021,
+        77.72753729254323
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.32753729254323,
+      "min_contact_constraint_mm": -5.731526364627371e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.536470437830047,
+      "normalized_bending_energy": 5.994245145123489,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        183.10384813718846,
+        75.27930208135014
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 75.87930208135013,
+      "min_contact_constraint_mm": 6.855627177060342e-15,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.8792240409746228,
+      "normalized_bending_energy": 2.636501395408746,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        174.36659645219194,
+        70.57682196687767
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 71.17682196687767,
+      "min_contact_constraint_mm": 2.662037257294969e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.3478928576137588,
+      "normalized_bending_energy": 0.06753980634408042,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.03402365886063,
+        69.66729125188985
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729125188984,
+      "min_contact_constraint_mm": 1.239746019064874,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 9.44518973299037e-06,
+      "normalized_bending_energy": 7.799387011626532e-11,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.0,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.03402365886063,
+        69.66729125188985
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729125188984,
+      "min_contact_constraint_mm": 1.7,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 9.44518973299037e-06,
+      "normalized_bending_energy": 7.799387011626532e-11,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 27,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 0.7500000000000114,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 31,
+      "tip_xy_mm": [
+        173.0340237225573,
+        69.6672915272728
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729152727279,
+      "min_contact_constraint_mm": 0.5958884762044978,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 0.0,
+      "normalized_bending_energy": 0.0
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 35,
+      "tip_xy_mm": [
+        177.76461962444245,
+        72.61689119421357
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 73.21689119421356,
+      "min_contact_constraint_mm": -5.598299601672352e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.307565583127812,
+      "normalized_bending_energy": 0.8789645035874386
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 39,
+      "tip_xy_mm": [
+        185.66107539390902,
+        76.23396854246654
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 76.83396854246654,
+      "min_contact_constraint_mm": -2.811639809863209e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.47139904183158,
+      "normalized_bending_energy": 4.277611559550363
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 43,
+      "tip_xy_mm": [
+        192.24690988695713,
+        78.15807753673569
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 78.75807753673568,
+      "min_contact_constraint_mm": -2.9801161538500764e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.937462462883469,
+      "normalized_bending_energy": 7.638701257503072
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 47,
+      "tip_xy_mm": [
+        197.96559054198528,
+        79.05172350853935
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.65172350853935,
+      "min_contact_constraint_mm": 8.723577415992168e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.1642024159240325,
+      "normalized_bending_energy": 10.6907496660851
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 51,
+      "tip_xy_mm": [
+        203.39485584295457,
+        79.18835218903175
+      ],
+      "max_x_including_edge_mm": 203.99485584295456,
+      "max_y_including_edge_mm": 79.78835218903174,
+      "min_contact_constraint_mm": -2.339517468641361e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2226217394551893,
+      "normalized_bending_energy": 13.540727127703416
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 55,
+      "tip_xy_mm": [
+        207.68927062355635,
+        78.73603373361252
+      ],
+      "max_x_including_edge_mm": 208.28927062355635,
+      "max_y_including_edge_mm": 79.33603373361251,
+      "min_contact_constraint_mm": -3.400058012914542e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.3103819987740826,
+      "normalized_bending_energy": 16.101037145325268
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 59,
+      "tip_xy_mm": [
+        209.59489007009697,
+        78.24533478507482
+      ],
+      "max_x_including_edge_mm": 210.19489007009696,
+      "max_y_including_edge_mm": 78.84533478507481,
+      "min_contact_constraint_mm": 4.0495384823202585e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.221940998433257,
+      "normalized_bending_energy": 16.865824104447704
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 63,
+      "tip_xy_mm": [
+        209.59168500486086,
+        78.2466084782435
+      ],
+      "max_x_including_edge_mm": 210.19168500486086,
+      "max_y_including_edge_mm": 78.8466084782435,
+      "min_contact_constraint_mm": -1.1352030426792226e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234303961688915,
+      "normalized_bending_energy": 16.86604635378927
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 67,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 71,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 75,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 79,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 83,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 87,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 96,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 108,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 84,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 80,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 76,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 72,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 68,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 64,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 60,
+      "tip_xy_mm": [
+        209.59168498665522,
+        78.24660849014538
+      ],
+      "max_x_including_edge_mm": 210.19168498665522,
+      "max_y_including_edge_mm": 78.84660849014537,
+      "min_contact_constraint_mm": 1.7069679003611782e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.2234320158938568,
+      "normalized_bending_energy": 16.86604635316227,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 56,
+      "tip_xy_mm": [
+        208.416164188046,
+        78.5849724509834
+      ],
+      "max_x_including_edge_mm": 209.016164188046,
+      "max_y_including_edge_mm": 79.1849724509834,
+      "min_contact_constraint_mm": -5.34489119630166e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.284721404514903,
+      "normalized_bending_energy": 16.43971502923547,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 52,
+      "tip_xy_mm": [
+        204.3597647702466,
+        79.14027763416634
+      ],
+      "max_x_including_edge_mm": 204.9597647702466,
+      "max_y_including_edge_mm": 79.74027763416633,
+      "min_contact_constraint_mm": 6.754319326063296e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.30704588437717,
+      "normalized_bending_energy": 14.254237720367186,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 48,
+      "tip_xy_mm": [
+        199.41248380341935,
+        79.16027817820414
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.76027817820413,
+      "min_contact_constraint_mm": -6.13398221105399e-15,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 3.190265816807552,
+      "normalized_bending_energy": 11.447068478956412,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 44,
+      "tip_xy_mm": [
+        193.79369339715512,
+        78.47417901571771
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 79.0741790157177,
+      "min_contact_constraint_mm": -1.6459056340067946e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.989112219015657,
+      "normalized_bending_energy": 8.414848329682238,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 40,
+      "tip_xy_mm": [
+        187.42509538891525,
+        76.8468923471745
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 77.4468923471745,
+      "min_contact_constraint_mm": -1.7544299346639036e-13,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 2.6010051262887397,
+      "normalized_bending_energy": 5.116278441277375,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 36,
+      "tip_xy_mm": [
+        179.84473340370988,
+        73.72070074866349
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 74.32070074866348,
+      "min_contact_constraint_mm": -3.7442271505483404e-14,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 1.685418428927422,
+      "normalized_bending_energy": 1.6168601209625195,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 32,
+      "tip_xy_mm": [
+        173.03402828425027,
+        69.66729486852765
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729486852764,
+      "min_contact_constraint_mm": 0.3326578794118036,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 4.812733960156439e-06,
+      "normalized_bending_energy": 1.9725480657145522e-11,
+      "direction": "withdrawal"
+    },
+    {
+      "right_mm": 199.95,
+      "leading_y_mm": 28,
+      "tip_xy_mm": [
+        173.03402828425027,
+        69.66729486852765
+      ],
+      "max_x_including_edge_mm": 203.2,
+      "max_y_including_edge_mm": 70.26729486852764,
+      "min_contact_constraint_mm": 0.7500000000000114,
+      "solver_restart_used": false,
+      "idealized_peak_bending_strain_percent": 4.812733960156439e-06,
+      "normalized_bending_energy": 1.9725480657145522e-11,
+      "direction": "withdrawal"
+    }
+  ],
+  "all_contact_solves_converged": true,
+  "refinement_checks": [
+    {
+      "case_right_mm": 178.05,
+      "tip_difference_mm": 0.0021292288784907775
+    },
+    {
+      "case_right_mm": 198.05,
+      "tip_difference_mm": 0.013089631239755909
+    },
+    {
+      "case_right_mm": 199.95,
+      "tip_difference_mm": 0.002404711415002142
+    }
+  ],
+  "leaf_thickness_mm": 1.2,
+  "leaf_height_mm": 10.0,
+  "root_thickness_mm": 2.4,
+  "root_taper_length_mm": 1.5,
+  "active_centerline_length_mm": 56.020666989142875,
+  "rest_tip_xy_mm": [
+    173.0349350494028,
+    69.66588428784151
+  ],
+  "tip_rear_bound_if_straightened_mm": 81.62066698914288,
+  "minimum_tip_to_seated_case_rear_margin_mm": 26.379333010857124,
+  "minimum_guard_clearance_across_computed_poses_mm": 0.8051099299030398,
+  "max_idealized_bending_strain_percent": 3.3103819987740826,
+  "method": "Static planar inextensible discrete rod with intrinsic curvature, clamped root, free endpoint, nonlinear case-corner contact and thickness-dependent bending rigidity for the tapered root. Continuation through insertion and withdrawal. No guard contact is imposed; available guard clearance is checked afterward. The mounting-block fillets and underside blend are not resolved as 3D stress features.",
+  "limitations": [
+    "Frictionless contact; no case sleeve friction or snag model.",
+    "No measured filament stiffness, yield, creep, fatigue or recovery model.",
+    "No layer adhesion, print tolerance or out-of-plane twist model.",
+    "Case positions are imposed; automatic left alignment and child operating force are not verified."
+  ],
+  "physically_tested": false,
+  "automatic_alignment_verified": false,
+  "nfc_hardware_tested": false,
+  "previous_revision_physical_test": {
+    "date": "2026-09-08",
+    "reported_by": "user",
+    "revision": "Plus20 single leaf with 29 mm inward bow",
+    "physically_printed_and_tested": true,
+    "outcome": "mechanism works, but the fin breaks easily where it meets the mounting block",
+    "observation": "it works, however, there a weak point where the fin attaches to the block, it breaks very easily",
+    "root_cause": "Not established physically. The CAD has an abrupt thin-fin to mounting-block transition and an underside height step.",
+    "requested_change": "Reinforce the attachment while retaining the successful movement and fit.",
+    "spring_stl_sha256": "c1ee2a20a1ada7bac3a3e3c7b0831d96429dec1b8e6971be6a8fe477ebc0a8f7"
+  }
+}

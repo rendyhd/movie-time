@@ -1,0 +1,19 @@
+{
+  "file": "Buttons_Fit_Fix_PLA.3mf",
+  "material": "PLA",
+  "estimated_grams": 5.39,
+  "estimated_seconds": 1745,
+  "supports_used": false,
+  "outside_bed": false,
+  "objects": [
+    "07_switch_carrier.stl",
+    "08_switch_retainer.stl",
+    "04_button_play.stl",
+    "05_button_pause.stl",
+    "06_button_stop.stl"
+  ],
+  "warnings": [
+    "not_support_traditional_timelapse",
+    "not_support_traditional_timelapse"
+  ]
+}

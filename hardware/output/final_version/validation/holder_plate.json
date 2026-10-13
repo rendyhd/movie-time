@@ -1,0 +1,16 @@
+{
+  "file": "Holder_Reach_Fix_PLA.3mf",
+  "material": "PLA",
+  "estimated_grams": 3.77,
+  "estimated_seconds": 1397,
+  "supports_used": false,
+  "outside_bed": false,
+  "objects": [
+    "07_switch_carrier.stl",
+    "08_switch_retainer.stl"
+  ],
+  "warnings": [
+    "not_support_traditional_timelapse",
+    "not_support_traditional_timelapse"
+  ]
+}

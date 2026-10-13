@@ -1,0 +1,212 @@
+{
+  "revision": "Switch holder moves seats 0.8 mm forward; existing 2.8 mm pin caps retained",
+  "changed_parts": [
+    "07_switch_carrier",
+    "08_switch_retainer"
+  ],
+  "measured_body_mm": [
+    6,
+    6,
+    4
+  ],
+  "measured_actuator_diameter_mm": 3.5,
+  "measured_actuator_projection_mm": 1.0,
+  "pocket_mm": [
+    6.2,
+    6.2,
+    4.0
+  ],
+  "cap_pressing_pin_diameter_mm": 3.0,
+  "guide_bore_diameter_mm": 4.2,
+  "cap_pin_length_mm": 2.8,
+  "previous_measured_unpressed_recess_mm": 3.0,
+  "previous_measured_pressed_recess_mm": 3.5,
+  "switch_seat_forward_shift_mm": 0.8,
+  "predicted_new_unpressed_recess_mm": 2.2,
+  "predicted_new_pressed_recess_mm": 2.7,
+  "reach_checks": [
+    {
+      "cap": "04_button_play",
+      "pin_length_mm": 2.8,
+      "predicted_recess_after_0_8_mm_forward_shift_mm": 2.2,
+      "contact_after_cap_travel_mm": 0.1,
+      "measured_actuator_travel_mm": 0.5,
+      "full_press_at_cap_travel_mm": 0.6,
+      "hard_stop_margin_after_full_press_mm": 0.1,
+      "contact_checked": true
+    },
+    {
+      "cap": "05_button_pause",
+      "pin_length_mm": 2.8,
+      "predicted_recess_after_0_8_mm_forward_shift_mm": 2.2,
+      "contact_after_cap_travel_mm": 0.1,
+      "measured_actuator_travel_mm": 0.5,
+      "full_press_at_cap_travel_mm": 0.6,
+      "hard_stop_margin_after_full_press_mm": 0.1,
+      "contact_checked": true
+    },
+    {
+      "cap": "06_button_stop",
+      "pin_length_mm": 2.8,
+      "predicted_recess_after_0_8_mm_forward_shift_mm": 2.2,
+      "contact_after_cap_travel_mm": 0.1,
+      "measured_actuator_travel_mm": 0.5,
+      "full_press_at_cap_travel_mm": 0.6,
+      "hard_stop_margin_after_full_press_mm": 0.1,
+      "contact_checked": true
+    }
+  ],
+  "rest_gap_mm": 0.1,
+  "cap_hard_stop_travel_mm": 0.7,
+  "measured_actuator_travel_mm": 0.5,
+  "geometric_full_press_margin_mm": 0.1,
+  "cap_visible_projection_mm": 1.4,
+  "switch_retention": [
+    {
+      "switch": "play",
+      "front_shoulder_retains_body": true,
+      "rear_plate_retains_body": true
+    },
+    {
+      "switch": "pause",
+      "front_shoulder_retains_body": true,
+      "rear_plate_retains_body": true
+    },
+    {
+      "switch": "stop",
+      "front_shoulder_retains_body": true,
+      "rear_plate_retains_body": true
+    }
+  ],
+  "existing_front_panel_and_coupon_reused": true,
+  "existing_screws_reused": [
+    "2 x M2 x 14 mm carrier, or M2 x 16 with 2 mm spacers",
+    "2 x M2 x 6 mm retainer"
+  ],
+  "all_solid_checks_passed": true,
+  "motion_checks": [
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0,
+      "plastic_collision": false
+    },
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0.09,
+      "plastic_collision": false
+    },
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0.1,
+      "plastic_collision": false
+    },
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0.2,
+      "plastic_collision": false
+    },
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0.45,
+      "plastic_collision": false
+    },
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0.6,
+      "plastic_collision": false
+    },
+    {
+      "cap": "04_button_play",
+      "travel_mm": 0.69,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0.09,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0.1,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0.2,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0.45,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0.6,
+      "plastic_collision": false
+    },
+    {
+      "cap": "05_button_pause",
+      "travel_mm": 0.69,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0.09,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0.1,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0.2,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0.45,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0.6,
+      "plastic_collision": false
+    },
+    {
+      "cap": "06_button_stop",
+      "travel_mm": 0.69,
+      "plastic_collision": false
+    }
+  ],
+  "failures": [],
+  "unchanged_step_sha256": {
+    "02_cute_lid_single_leaf": "4ecff725da75754b3e5ef32e6f635cf727a90ecb6731d3cebb695bd736b2ddca",
+    "06_button_stop": "b5bff316efc078f482c32d6569c595720ec8dc5245914357feeb963f0a092312",
+    "09_led_lens": "ae867e3ec6f160fb009c7c3ab10e27d5f6c09fbf5d02e6938193e54c96b3700a",
+    "01_base": "f9093b08dc6ab8858ba018e408bc7a355897d3cca504c3689721e0df17018329",
+    "05_button_pause": "ddbabbbb4d9c7f7c5c21e6a3b309a14b5412e8780a615fed346862aa348b54a9",
+    "03_case_deck": "ef76f0f353005bb29b89a3793546bfc2ebcfb2707c9e43ace4a794271b99e147",
+    "04_button_play": "c00fa7e9803774e0dfefd2382dbe8509ef5fc5b12e45daecc03aab033efb4abd",
+    "12_single_leaf_PETG": "dc57c4a6be10a2dff0a5a5e41ee7239940d7512141f246d6aebd08f9127bef14"
+  },
+  "physically_tested": false,
+  "limitations": [
+    "Actuator travel inferred from user measurements: 3.5 minus 3.0 mm. Operating force is not measured.",
+    "Installed contact face uses the previous measured recess, translated 0.8 mm with the new seats. The difference from the old nominal switch envelope remains unexplained; the actuator well is a motion envelope, not an internal switch model.",
+    "Printed fit, switch click and return must be checked with the actual switches.",
+    "Lead reliefs are retained; soldered lead fit has not been physically checked."
+  ]
+}

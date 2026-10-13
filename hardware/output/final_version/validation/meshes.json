@@ -1,0 +1,79 @@
+{
+  "02_cute_lid_single_leaf": {
+    "size_mm": [
+      250.0,
+      144.0,
+      20.0
+    ],
+    "volume_cm3": 126.406,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  },
+  "12_single_leaf_PETG": {
+    "size_mm": [
+      46.765,
+      56.266,
+      10.0
+    ],
+    "volume_cm3": 2.262,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  },
+  "04_button_play": {
+    "size_mm": [
+      13.197,
+      15.0,
+      7.6
+    ],
+    "volume_cm3": 0.542,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  },
+  "05_button_pause": {
+    "size_mm": [
+      13.197,
+      15.0,
+      7.6
+    ],
+    "volume_cm3": 0.54,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  },
+  "06_button_stop": {
+    "size_mm": [
+      13.197,
+      15.0,
+      7.6
+    ],
+    "volume_cm3": 0.538,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  },
+  "07_switch_carrier": {
+    "size_mm": [
+      43.2,
+      15.6,
+      6.5
+    ],
+    "volume_cm3": 2.412,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  },
+  "08_switch_retainer": {
+    "size_mm": [
+      43.0,
+      13.6,
+      1.8
+    ],
+    "volume_cm3": 0.823,
+    "watertight": true,
+    "single_body": true,
+    "fits_A1": true
+  }
+}

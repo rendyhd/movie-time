@@ -1,0 +1,750 @@
+{
+  "release": "Movie Time Final \u2014 forward switch holder for measured actuator reach",
+  "printer": "Bambu Lab A1 0.4 mm",
+  "new_printed_parts": [
+    "switch carrier",
+    "switch retainer"
+  ],
+  "unchanged_printed_parts": [
+    "play/pause/stop caps",
+    "cute lid",
+    "base",
+    "deck",
+    "LED lens",
+    "reinforced PETG spring"
+  ],
+  "spring_parts_count": 1,
+  "sliding_joints_count": 0,
+  "all_final_plates_sliced": true,
+  "all_final_plates_support_free": true,
+  "final_parts_estimated_grams": 362.76,
+  "final_parts_estimated_seconds": 43804,
+  "contact_motion_poses": 231,
+  "rigid_solid_motion_poses": 42,
+  "physically_tested": false,
+  "automatic_alignment_verified": false,
+  "nfc_read_verified": false,
+  "previous_revision_physical_test": {
+    "date": "2026-09-08",
+    "reported_by": "user",
+    "revision": "Plus20 single leaf with 29 mm inward bow",
+    "physically_printed_and_tested": true,
+    "outcome": "mechanism works, but the fin breaks easily where it meets the mounting block",
+    "observation": "it works, however, there a weak point where the fin attaches to the block, it breaks very easily",
+    "root_cause": "Not established physically. The CAD has an abrupt thin-fin to mounting-block transition and an underside height step.",
+    "requested_change": "Reinforce the attachment while retaining the successful movement and fit.",
+    "spring_stl_sha256": "c1ee2a20a1ada7bac3a3e3c7b0831d96429dec1b8e6971be6a8fe477ebc0a8f7"
+  },
+  "force_tuning": {
+    "target": "reinforce the fin attachment while preserving the working Plus20 shape",
+    "change": "2.4 mm attachment tapering to the existing 1.2 mm leaf over 1.5 mm; rounded block shoulders; embedded root with underside ramp",
+    "root_thickness_before_mm": 1.2,
+    "root_thickness_after_mm": 2.4,
+    "root_taper_length_mm": 1.5,
+    "mounting_holes_and_block_envelope_unchanged": true,
+    "free_tip_extra_inward_reach_mm": 0.0,
+    "comparison": [
+      {
+        "case": "Blu-ray at left wall",
+        "right_edge_mm": 178.05,
+        "old_normalized_force": 0.16664056305571884,
+        "new_normalized_force": 0.1753494779571041,
+        "force_increase_percent": 5.2261674718857565
+      },
+      {
+        "case": "Blu-ray allowance at left wall",
+        "right_edge_mm": 180.05,
+        "old_normalized_force": 0.2337507778157777,
+        "new_normalized_force": 0.24710554198010382,
+        "force_increase_percent": 5.713249080544758
+      },
+      {
+        "case": "DVD at left wall",
+        "right_edge_mm": 198.05,
+        "old_normalized_force": 1.3321352564643263,
+        "new_normalized_force": 1.433491085518881,
+        "force_increase_percent": 7.608523876439333
+      }
+    ],
+    "finite_difference_step_mm": 0.025,
+    "half_step_force_ratio": 1.0541340270997714,
+    "method": "Derivative of normalized equilibrium bending energy against imposed case right-edge position. Variable section rigidity at the root; same nominal EI on the active span. Frictionless rod model, not a measured force. Shoulder fillets and underside blend are not modeled as 3D stress features.",
+    "joint_strength_or_fatigue_verified": false,
+    "tuned_spring_physically_tested": false
+  },
+  "reinforced_joint": {
+    "valid_single_solid": true,
+    "original_contact_span_preserved_after_y_mm": 27.5,
+    "contact_span_symmetric_difference_mm3": 0.0,
+    "removed_material_from_previous_spring_mm3": 0.0,
+    "added_material_mm3": 17.631842091426734,
+    "shoulder_fillet_radii_mm": [
+      1.2,
+      0.4
+    ],
+    "underside_ramp_slope_degrees": 45,
+    "attachment_embedded_into_block_mm": 2.5,
+    "root_thickness_mm": 2.4,
+    "root_taper_length_mm": 1.5,
+    "physically_tested": false
+  },
+  "buttons": {
+    "revision": "Switch holder moves seats 0.8 mm forward; existing 2.8 mm pin caps retained",
+    "changed_parts": [
+      "07_switch_carrier",
+      "08_switch_retainer"
+    ],
+    "measured_body_mm": [
+      6,
+      6,
+      4
+    ],
+    "measured_actuator_diameter_mm": 3.5,
+    "measured_actuator_projection_mm": 1.0,
+    "pocket_mm": [
+      6.2,
+      6.2,
+      4.0
+    ],
+    "cap_pressing_pin_diameter_mm": 3.0,
+    "guide_bore_diameter_mm": 4.2,
+    "cap_pin_length_mm": 2.8,
+    "previous_measured_unpressed_recess_mm": 3.0,
+    "previous_measured_pressed_recess_mm": 3.5,
+    "switch_seat_forward_shift_mm": 0.8,
+    "predicted_new_unpressed_recess_mm": 2.2,
+    "predicted_new_pressed_recess_mm": 2.7,
+    "reach_checks": [
+      {
+        "cap": "04_button_play",
+        "pin_length_mm": 2.8,
+        "predicted_recess_after_0_8_mm_forward_shift_mm": 2.2,
+        "contact_after_cap_travel_mm": 0.1,
+        "measured_actuator_travel_mm": 0.5,
+        "full_press_at_cap_travel_mm": 0.6,
+        "hard_stop_margin_after_full_press_mm": 0.1,
+        "contact_checked": true
+      },
+      {
+        "cap": "05_button_pause",
+        "pin_length_mm": 2.8,
+        "predicted_recess_after_0_8_mm_forward_shift_mm": 2.2,
+        "contact_after_cap_travel_mm": 0.1,
+        "measured_actuator_travel_mm": 0.5,
+        "full_press_at_cap_travel_mm": 0.6,
+        "hard_stop_margin_after_full_press_mm": 0.1,
+        "contact_checked": true
+      },
+      {
+        "cap": "06_button_stop",
+        "pin_length_mm": 2.8,
+        "predicted_recess_after_0_8_mm_forward_shift_mm": 2.2,
+        "contact_after_cap_travel_mm": 0.1,
+        "measured_actuator_travel_mm": 0.5,
+        "full_press_at_cap_travel_mm": 0.6,
+        "hard_stop_margin_after_full_press_mm": 0.1,
+        "contact_checked": true
+      }
+    ],
+    "rest_gap_mm": 0.1,
+    "cap_hard_stop_travel_mm": 0.7,
+    "measured_actuator_travel_mm": 0.5,
+    "geometric_full_press_margin_mm": 0.1,
+    "cap_visible_projection_mm": 1.4,
+    "switch_retention": [
+      {
+        "switch": "play",
+        "front_shoulder_retains_body": true,
+        "rear_plate_retains_body": true
+      },
+      {
+        "switch": "pause",
+        "front_shoulder_retains_body": true,
+        "rear_plate_retains_body": true
+      },
+      {
+        "switch": "stop",
+        "front_shoulder_retains_body": true,
+        "rear_plate_retains_body": true
+      }
+    ],
+    "existing_front_panel_and_coupon_reused": true,
+    "existing_screws_reused": [
+      "2 x M2 x 14 mm carrier, or M2 x 16 with 2 mm spacers",
+      "2 x M2 x 6 mm retainer"
+    ],
+    "all_solid_checks_passed": true,
+    "motion_checks": [
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0,
+        "plastic_collision": false
+      },
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0.09,
+        "plastic_collision": false
+      },
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0.1,
+        "plastic_collision": false
+      },
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0.2,
+        "plastic_collision": false
+      },
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0.45,
+        "plastic_collision": false
+      },
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0.6,
+        "plastic_collision": false
+      },
+      {
+        "cap": "04_button_play",
+        "travel_mm": 0.69,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0.09,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0.1,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0.2,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0.45,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0.6,
+        "plastic_collision": false
+      },
+      {
+        "cap": "05_button_pause",
+        "travel_mm": 0.69,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0.09,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0.1,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0.2,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0.45,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0.6,
+        "plastic_collision": false
+      },
+      {
+        "cap": "06_button_stop",
+        "travel_mm": 0.69,
+        "plastic_collision": false
+      }
+    ],
+    "failures": [],
+    "unchanged_step_sha256": {
+      "02_cute_lid_single_leaf": "4ecff725da75754b3e5ef32e6f635cf727a90ecb6731d3cebb695bd736b2ddca",
+      "06_button_stop": "b5bff316efc078f482c32d6569c595720ec8dc5245914357feeb963f0a092312",
+      "09_led_lens": "ae867e3ec6f160fb009c7c3ab10e27d5f6c09fbf5d02e6938193e54c96b3700a",
+      "01_base": "f9093b08dc6ab8858ba018e408bc7a355897d3cca504c3689721e0df17018329",
+      "05_button_pause": "ddbabbbb4d9c7f7c5c21e6a3b309a14b5412e8780a615fed346862aa348b54a9",
+      "03_case_deck": "ef76f0f353005bb29b89a3793546bfc2ebcfb2707c9e43ace4a794271b99e147",
+      "04_button_play": "c00fa7e9803774e0dfefd2382dbe8509ef5fc5b12e45daecc03aab033efb4abd",
+      "12_single_leaf_PETG": "dc57c4a6be10a2dff0a5a5e41ee7239940d7512141f246d6aebd08f9127bef14"
+    },
+    "physically_tested": false,
+    "limitations": [
+      "Actuator travel inferred from user measurements: 3.5 minus 3.0 mm. Operating force is not measured.",
+      "Installed contact face uses the previous measured recess, translated 0.8 mm with the new seats. The difference from the old nominal switch envelope remains unexplained; the actuator well is a motion envelope, not an internal switch model.",
+      "Printed fit, switch click and return must be checked with the actual switches.",
+      "Lead reliefs are retained; soldered lead fit has not been physically checked."
+    ]
+  },
+  "replacement_holder_plate": {
+    "file": "Holder_Reach_Fix_PLA.3mf",
+    "material": "PLA",
+    "estimated_grams": 3.77,
+    "estimated_seconds": 1397,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "07_switch_carrier.stl",
+      "08_switch_retainer.stl"
+    ],
+    "warnings": [
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ]
+  },
+  "previous_button_measurements": {
+    "reported_by": "user",
+    "reported_actuator_recess_from_guide_rim_mm": 3.0,
+    "previous_pin_length_mm": 2.8,
+    "old_shortfall_at_stop_mm": 0.2,
+    "report": "ah come on, the pressing pin does not reach the actuator",
+    "measurement": "when i measure the hole, it is 3mm to an unpressed actuator",
+    "nominal_CAD_recess_mm": 2.3,
+    "cause_of_nominal_vs_measured_recess_difference": "not established",
+    "replacement_physical_result": "pending",
+    "reported_pressed_recess_mm": 3.5,
+    "measured_actuator_travel_mm": 0.5,
+    "user_preference": "Retain the existing 2.8 mm pin caps; revise the holder instead.",
+    "holder_switch_seat_forward_offset_mm": 0.8
+  },
+  "replacement_button_plate": {
+    "file": "Buttons_Fit_Fix_PLA.3mf",
+    "material": "PLA",
+    "estimated_grams": 5.39,
+    "estimated_seconds": 1745,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "07_switch_carrier.stl",
+      "08_switch_retainer.stl",
+      "04_button_play.stl",
+      "05_button_pause.stl",
+      "06_button_stop.stl"
+    ],
+    "warnings": [
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ]
+  },
+  "assembly_audit": {
+    "all_nominal_screw_checks_passed": true,
+    "screw_count_in_player": 14,
+    "screws": [
+      {
+        "code": "A",
+        "size": "M3 x 25 pan head",
+        "seat": [
+          4.2,
+          25.0,
+          1.4
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 25,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 2.4,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 18.0,
+        "pilot_end": 29.5,
+        "tip": 26.4,
+        "engagement": 8.4,
+        "blind_end_clearance_mm": 3.1000000000000014,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "A",
+        "size": "M3 x 25 pan head",
+        "seat": [
+          4.2,
+          122.0,
+          1.4
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 25,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 2.4,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 18.0,
+        "pilot_end": 29.5,
+        "tip": 26.4,
+        "engagement": 8.4,
+        "blind_end_clearance_mm": 3.1000000000000014,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "A",
+        "size": "M3 x 25 pan head",
+        "seat": [
+          241.0,
+          65.0,
+          1.4
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 25,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 2.4,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 18.0,
+        "pilot_end": 29.5,
+        "tip": 26.4,
+        "engagement": 8.4,
+        "blind_end_clearance_mm": 3.1000000000000014,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "A",
+        "size": "M3 x 25 pan head",
+        "seat": [
+          241.0,
+          128.0,
+          1.4
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 25,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 2.4,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 18.0,
+        "pilot_end": 29.5,
+        "tip": 26.4,
+        "engagement": 8.4,
+        "blind_end_clearance_mm": 3.1000000000000014,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "B",
+        "size": "M3 x 8 90-degree countersunk",
+        "seat": [
+          15.0,
+          12.0,
+          17.6
+        ],
+        "axis": [
+          0,
+          0,
+          -1
+        ],
+        "length": 8,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 1.3,
+        "host": "01_base",
+        "receiver_entry": 15.6,
+        "pilot_end": 8.0,
+        "tip": 9.6,
+        "engagement": 6.0,
+        "blind_end_clearance_mm": 1.5999999999999996,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "B",
+        "size": "M3 x 8 90-degree countersunk",
+        "seat": [
+          190.0,
+          12.0,
+          17.6
+        ],
+        "axis": [
+          0,
+          0,
+          -1
+        ],
+        "length": 8,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 1.3,
+        "host": "01_base",
+        "receiver_entry": 15.6,
+        "pilot_end": 8.0,
+        "tip": 9.6,
+        "engagement": 6.0,
+        "blind_end_clearance_mm": 1.5999999999999996,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "B",
+        "size": "M3 x 8 90-degree countersunk",
+        "seat": [
+          84.0,
+          101.0,
+          17.6
+        ],
+        "axis": [
+          0,
+          0,
+          -1
+        ],
+        "length": 8,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 1.3,
+        "host": "01_base",
+        "receiver_entry": 15.6,
+        "pilot_end": 8.0,
+        "tip": 9.6,
+        "engagement": 6.0,
+        "blind_end_clearance_mm": 1.5999999999999996,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "B",
+        "size": "M3 x 8 90-degree countersunk",
+        "seat": [
+          190.0,
+          101.0,
+          17.6
+        ],
+        "axis": [
+          0,
+          0,
+          -1
+        ],
+        "length": 8,
+        "radius": 1.5,
+        "head_radius": 2.8,
+        "head_height": 1.3,
+        "host": "01_base",
+        "receiver_entry": 15.6,
+        "pilot_end": 8.0,
+        "tip": 9.6,
+        "engagement": 6.0,
+        "blind_end_clearance_mm": 1.5999999999999996,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "C",
+        "size": "M2 x 14 pan head",
+        "seat": [
+          215.25,
+          8.8,
+          20.0
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 14,
+        "radius": 1.0,
+        "head_radius": 2.0,
+        "head_height": 1.6,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 30.0,
+        "pilot_end": 36.0,
+        "tip": 34.0,
+        "engagement": 4.0,
+        "blind_end_clearance_mm": 2.0,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "C",
+        "size": "M2 x 14 pan head",
+        "seat": [
+          228.75,
+          8.8,
+          20.0
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 14,
+        "radius": 1.0,
+        "head_radius": 2.0,
+        "head_height": 1.6,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 30.0,
+        "pilot_end": 36.0,
+        "tip": 34.0,
+        "engagement": 4.0,
+        "blind_end_clearance_mm": 2.0,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "D",
+        "size": "M2 x 6 pan head",
+        "seat": [
+          204.8,
+          12.4,
+          32.1
+        ],
+        "axis": [
+          0,
+          -1,
+          0
+        ],
+        "length": 6,
+        "radius": 1.0,
+        "head_radius": 2.0,
+        "head_height": 1.6,
+        "host": "07_switch_carrier",
+        "receiver_entry": 10.6,
+        "pilot_end": null,
+        "tip": 6.4,
+        "engagement": 4.2,
+        "blind_end_clearance_mm": null,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "D",
+        "size": "M2 x 6 pan head",
+        "seat": [
+          244.0,
+          12.4,
+          32.1
+        ],
+        "axis": [
+          0,
+          -1,
+          0
+        ],
+        "length": 6,
+        "radius": 1.0,
+        "head_radius": 2.0,
+        "head_height": 1.6,
+        "host": "07_switch_carrier",
+        "receiver_entry": 10.6,
+        "pilot_end": null,
+        "tip": 6.4,
+        "engagement": 4.2,
+        "blind_end_clearance_mm": null,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "E",
+        "size": "M2 x 12 pan head",
+        "seat": [
+          205.0,
+          19.5,
+          21.0
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 12,
+        "radius": 1.0,
+        "head_radius": 2.0,
+        "head_height": 1.6,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 29.0,
+        "pilot_end": 33.7,
+        "tip": 33.0,
+        "engagement": 4.0,
+        "blind_end_clearance_mm": 0.7000000000000028,
+        "unrelated_part_collisions": []
+      },
+      {
+        "code": "E",
+        "size": "M2 x 12 pan head",
+        "seat": [
+          214.0,
+          19.5,
+          21.0
+        ],
+        "axis": [
+          0,
+          0,
+          1
+        ],
+        "length": 12,
+        "radius": 1.0,
+        "head_radius": 2.0,
+        "head_height": 1.6,
+        "host": "02_cute_lid_single_leaf",
+        "receiver_entry": 29.0,
+        "pilot_end": 33.7,
+        "tip": 33.0,
+        "engagement": 4.0,
+        "blind_end_clearance_mm": 0.7000000000000028,
+        "unrelated_part_collisions": []
+      }
+    ],
+    "correction": {
+      "location": "C - switch carrier to lid",
+      "old_screw": "M2 x 16 without spacer",
+      "old_tip_z_mm": 36.0,
+      "blind_pilot_end_z_mm": 36.0,
+      "old_blind_end_margin_mm": 0.0,
+      "recommended": "M2 x 14",
+      "alternative": "M2 x 16 with a 2 mm spacer under each head, OD <= 4 mm",
+      "alternative_clearance_checked": true
+    },
+    "nfc_tag_center_from_case_left_mm": 26.0,
+    "nfc_tag_center_from_spine_mm": 104.0,
+    "limitations": [
+      "Nominal screw envelopes, not a thread-strength test.",
+      "Confirm actual head dimensions and seat deck heads flush or recessed.",
+      "Printed tolerances, tightening torque and switch operation require physical checks."
+    ]
+  },
+  "wiring_audit": {
+    "esphome_version": "2026.8.2",
+    "upstream_commit": "a8bb6fc43e5a687503d1b43edb32855d0de7050a",
+    "merged_configuration_valid": true,
+    "button_pin_map": {
+      "play": "D5 / GPIO14",
+      "pause": "D6 / GPIO12",
+      "stop": "D0 / GPIO16"
+    },
+    "reader_pin_map": {
+      "SCL": "D1 / GPIO5",
+      "SDA": "D2 / GPIO4",
+      "buzzer": "D7 / GPIO13",
+      "pixel_data": "D8 / GPIO15"
+    },
+    "physically_tested": false,
+    "firmware_compiled": false,
+    "device_flashed": false
+  },
+  "unchanged_plate_sha256": {
+    "03_Base_PLA": "8770abc484b1efc17505f38d8d54c8e02e22e91e54481376dbe313155c27e7f1",
+    "02_Cute_Lid_PLA": "807cfe13d0c76be5638262949307c94c2a9b2a4cd4c9bee4fa7d513f2357942d",
+    "01_Spring_PETG": "4eb771ca25c60a3e7dea525ba51d4aa2f099ae0cd3ce79245fba489abc0ce9da"
+  }
+}

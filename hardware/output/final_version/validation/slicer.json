@@ -1,0 +1,84 @@
+{
+  "01_Spring_PETG": {
+    "file": "01_Spring_PETG.3mf",
+    "material": "PETG",
+    "estimated_grams": 2.75,
+    "estimated_seconds": 1203,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "12_single_leaf_PETG.stl"
+    ],
+    "warnings": [
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ]
+  },
+  "02_Cute_Lid_PLA": {
+    "file": "02_Cute_Lid_PLA.3mf",
+    "material": "PLA",
+    "estimated_grams": 135.3,
+    "estimated_seconds": 15348,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "02_cute_lid_single_leaf.stl"
+    ],
+    "warnings": [
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ]
+  },
+  "03_Base_PLA": {
+    "file": "03_Base_PLA.3mf",
+    "material": "PLA",
+    "estimated_grams": 165.22,
+    "estimated_seconds": 19073,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "01_base.stl"
+    ],
+    "warnings": [
+      "bed_temperature_too_high_than_filament",
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ],
+    "unchanged_from": "output/plates/02_base.3mf"
+  },
+  "04_Deck_and_Hardware_PLA": {
+    "file": "04_Deck_and_Hardware_PLA.3mf",
+    "material": "PLA",
+    "estimated_grams": 57.81,
+    "estimated_seconds": 7320,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "03_case_deck.stl",
+      "07_switch_carrier.stl",
+      "08_switch_retainer.stl",
+      "09_led_lens.stl"
+    ],
+    "warnings": [
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ]
+  },
+  "05_Buttons_PLA": {
+    "file": "05_Buttons_PLA.3mf",
+    "material": "PLA",
+    "estimated_grams": 1.68,
+    "estimated_seconds": 860,
+    "supports_used": false,
+    "outside_bed": false,
+    "objects": [
+      "04_button_play.stl",
+      "05_button_pause.stl",
+      "06_button_stop.stl"
+    ],
+    "warnings": [
+      "not_support_traditional_timelapse",
+      "not_support_traditional_timelapse"
+    ]
+  }
+}

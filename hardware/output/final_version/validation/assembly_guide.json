@@ -1,0 +1,9 @@
+{
+  "pages": 10,
+  "file": "output/pdf/Movie_Time_Assembly_and_Wiring.pdf",
+  "sha256": "470582321101761276d193eaf92f2bd871315746508940502021ac68f85b94bd",
+  "physical_tests_complete": false,
+  "hardware_audit": "output/final_version/validation/assembly_audit.json",
+  "pdf_text_and_page_count_checked": true,
+  "visual_review_complete": false
+}

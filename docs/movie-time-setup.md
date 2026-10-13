@@ -2,7 +2,8 @@
 
 This version is for your original **ESP8266 D1 mini, red PN532, WS2812 LED,
 passive buzzer and three 6 mm buttons**. It uses the wiring already designed
-for your printed DVD/Blu-ray player. Kodi plays the movies; the reader selects them.
+for your printed DVD/Blu-ray player; the print files and assembly guide are in
+[hardware](../hardware/README.md). Kodi plays the movies; the reader selects them.
 
 ## What she does
 

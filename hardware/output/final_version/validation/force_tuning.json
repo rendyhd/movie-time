@@ -1,0 +1,37 @@
+{
+  "target": "reinforce the fin attachment while preserving the working Plus20 shape",
+  "change": "2.4 mm attachment tapering to the existing 1.2 mm leaf over 1.5 mm; rounded block shoulders; embedded root with underside ramp",
+  "root_thickness_before_mm": 1.2,
+  "root_thickness_after_mm": 2.4,
+  "root_taper_length_mm": 1.5,
+  "mounting_holes_and_block_envelope_unchanged": true,
+  "free_tip_extra_inward_reach_mm": 0.0,
+  "comparison": [
+    {
+      "case": "Blu-ray at left wall",
+      "right_edge_mm": 178.05,
+      "old_normalized_force": 0.16664056305571884,
+      "new_normalized_force": 0.1753494779571041,
+      "force_increase_percent": 5.2261674718857565
+    },
+    {
+      "case": "Blu-ray allowance at left wall",
+      "right_edge_mm": 180.05,
+      "old_normalized_force": 0.2337507778157777,
+      "new_normalized_force": 0.24710554198010382,
+      "force_increase_percent": 5.713249080544758
+    },
+    {
+      "case": "DVD at left wall",
+      "right_edge_mm": 198.05,
+      "old_normalized_force": 1.3321352564643263,
+      "new_normalized_force": 1.433491085518881,
+      "force_increase_percent": 7.608523876439333
+    }
+  ],
+  "finite_difference_step_mm": 0.025,
+  "half_step_force_ratio": 1.0541340270997714,
+  "method": "Derivative of normalized equilibrium bending energy against imposed case right-edge position. Variable section rigidity at the root; same nominal EI on the active span. Frictionless rod model, not a measured force. Shoulder fillets and underside blend are not modeled as 3D stress features.",
+  "joint_strength_or_fatigue_verified": false,
+  "tuned_spring_physically_tested": false
+}

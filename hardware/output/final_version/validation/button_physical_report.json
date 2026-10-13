@@ -1,0 +1,17 @@
+{
+  "reported_by": "user",
+  "observations": [
+    "Switches fit holder but are loose and fall out",
+    "Actuator is flush with holder front",
+    "Printed caps do not enter the hole"
+  ],
+  "measured_switch_body_mm": [
+    6,
+    6,
+    4
+  ],
+  "actuator_diameter_mm": 3.5,
+  "actuator_projection_mm": 1.0,
+  "total_height_mm": 5.0,
+  "switch_travel_measured": false
+}

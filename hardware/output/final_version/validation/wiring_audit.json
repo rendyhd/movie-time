@@ -1,0 +1,19 @@
+{
+  "esphome_version": "2026.8.2",
+  "upstream_commit": "a8bb6fc43e5a687503d1b43edb32855d0de7050a",
+  "merged_configuration_valid": true,
+  "button_pin_map": {
+    "play": "D5 / GPIO14",
+    "pause": "D6 / GPIO12",
+    "stop": "D0 / GPIO16"
+  },
+  "reader_pin_map": {
+    "SCL": "D1 / GPIO5",
+    "SDA": "D2 / GPIO4",
+    "buzzer": "D7 / GPIO13",
+    "pixel_data": "D8 / GPIO15"
+  },
+  "physically_tested": false,
+  "firmware_compiled": false,
+  "device_flashed": false
+}

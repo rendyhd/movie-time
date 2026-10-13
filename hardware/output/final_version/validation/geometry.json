@@ -1,0 +1,236 @@
+{
+  "all_solid_clearance_checks_passed": true,
+  "failures": [],
+  "case_motion_poses": [
+    {
+      "case_right_mm": 178.05,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 178.05,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 178.05,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 178.05,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 178.05,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 178.05,
+      "leading_y_mm": 108,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 180.05,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 180.05,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 180.05,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 180.05,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 180.05,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 180.05,
+      "leading_y_mm": 108,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 189.0,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 189.0,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 189.0,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 189.0,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 189.0,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 189.0,
+      "leading_y_mm": 108,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 190.0,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 190.0,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 190.0,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 190.0,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 190.0,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 190.0,
+      "leading_y_mm": 108,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 198.05,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 198.05,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 198.05,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 198.05,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 198.05,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 198.05,
+      "leading_y_mm": 108,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.0,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.0,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.0,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.0,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.0,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.0,
+      "leading_y_mm": 108,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.95,
+      "leading_y_mm": 35,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.95,
+      "leading_y_mm": 47,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.95,
+      "leading_y_mm": 59,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.95,
+      "leading_y_mm": 71,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.95,
+      "leading_y_mm": 83,
+      "collisions": []
+    },
+    {
+      "case_right_mm": 199.95,
+      "leading_y_mm": 108,
+      "collisions": []
+    }
+  ],
+  "body_mm": [
+    250,
+    144,
+    38
+  ],
+  "slot_mm": [
+    192,
+    16.8
+  ],
+  "case_depth_mm": 135,
+  "insertion_depth_mm": 108,
+  "spine_exposed_mm": 27,
+  "existing_fixture_reused": true,
+  "spring_mounting_block_height_mm": 8,
+  "spring_mount_screws": "2 x M2 x 12 mm, from below",
+  "physical_test_status": "not yet physically tested",
+  "fixture_hashes": {
+    "14_spring_test_bed": "d8bb1137f9bdcca5124487fa994a3e302dc3230fb6cae3a90518d90b7af9e92d",
+    "15_spring_test_mount": "36cd10c835b89c0d8ca76d9d3387d5cb97c88a6afefd75a672c028e9af3e3a73"
+  }
+}

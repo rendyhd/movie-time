@@ -1,0 +1,15 @@
+{
+  "reported_by": "user",
+  "reported_actuator_recess_from_guide_rim_mm": 3.0,
+  "previous_pin_length_mm": 2.8,
+  "old_shortfall_at_stop_mm": 0.2,
+  "report": "ah come on, the pressing pin does not reach the actuator",
+  "measurement": "when i measure the hole, it is 3mm to an unpressed actuator",
+  "nominal_CAD_recess_mm": 2.3,
+  "cause_of_nominal_vs_measured_recess_difference": "not established",
+  "replacement_physical_result": "pending",
+  "reported_pressed_recess_mm": 3.5,
+  "measured_actuator_travel_mm": 0.5,
+  "user_preference": "Retain the existing 2.8 mm pin caps; revise the holder instead.",
+  "holder_switch_seat_forward_offset_mm": 0.8
+}
